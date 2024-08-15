@@ -1,8 +1,6 @@
 
 # 👋 Hey there, I'm Pratikshya!
 
-![Developer Banner](https://your-image-url.com/banner.png)
-
 ## 🚀 About Me
 
 I'm a passionate and experienced software developer with a deep love for crafting high-quality, performant web applications. My primary stack revolves around **JavaScript, TypeScript, Node.js, React (JSX), and Material UI**. I believe in writing clean, maintainable, and scalable code, and I'm always on the lookout for new challenges and opportunities to learn and grow.
